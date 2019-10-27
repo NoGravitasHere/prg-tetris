@@ -1,0 +1,6 @@
+Score: 75	 Name: ...	 Moves: 75
+Score: 75	 Name: abc	 Moves: 75
+Score: 75	 Name: a	 Moves: 75
+Score: 87	 Name: ajh	 Moves: 99
+Score: 99	 Name: Dave	 Moves: 104
+Score: 143	 Name: apd	 Moves: 163
